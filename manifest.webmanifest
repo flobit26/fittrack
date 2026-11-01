@@ -6,5 +6,17 @@
   "background_color": "#f5f8f6",
   "theme_color": "#236b55",
   "lang": "zh-CN",
-  "description": "体重、围度、训练、饮食与恢复记录"
+  "description": "体重、围度、训练、饮食与恢复记录",
+  "icons": [
+    {
+      "src": "./launchericon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "./launchericon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
 }
